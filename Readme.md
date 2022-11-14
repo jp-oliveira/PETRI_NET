@@ -1,0 +1,1 @@
+Development of a Petri Net. Made in 2021 for the subject "Computer Process Control" of the Electrical Engineering course with an emphasis on Systems and Computing - UERJ.
